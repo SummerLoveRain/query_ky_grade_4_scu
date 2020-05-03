@@ -107,9 +107,9 @@ def processImage():
 
 
 """ 你的 APPID AK SK """
-APP_ID = '19700424'
-API_KEY = 'V9l8uUf30rQoloIfkVDCqhtE'
-SECRET_KEY = 'X1P0eLkoX5oyl75dqbkwjmXAbbcp37kx'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 
 
